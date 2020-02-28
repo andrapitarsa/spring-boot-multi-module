@@ -1,0 +1,5 @@
+com/example/domain/Product.class
+com/example/StartUpInit/Init.class
+com/example/repositories/ProductRepository.class
+com/example/controller/ProductController.class
+com/example/service/ProductService.class
