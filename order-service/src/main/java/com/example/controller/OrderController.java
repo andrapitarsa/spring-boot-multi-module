@@ -21,6 +21,6 @@ public class OrderController {
 
     @GetMapping("/ordertest")
     public String hello() {
-        return "Hello Order Test 8877000";
+        return "Order Test";
     }
 }
